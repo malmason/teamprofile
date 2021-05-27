@@ -140,7 +140,7 @@ const createEngineers = () => {
 const createInterns = () => {
   let cards = "";
   interns.forEach(intern => {
-    let newInt = new Intern(intern.intern,intern.intid, intern.intemail, intern.int,intern.school);
+    let newInt = new Intern(intern.intern,intern.intid, intern.intemail, intern.intschool);
     cards += 
     `<div class="col">
       <div class="card rounded-top border-success">
