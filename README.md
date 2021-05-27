@@ -8,7 +8,9 @@
 ## 📝 Description
 
 ```
-This is a Node.js command-line application that prompts the user for information about their team. It requests Manager, Engineer, and Intern information and takes the input received and generates a card based webpage displaying the resulting team members.
+This is a Node.js command-line application that prompts the user for information about their team. 
+It requests Manager, Engineer, and Intern information and takes the input received and generates a card 
+based webpage displaying the resulting team members.
 ```
 
 ## 🧰 Technologies Used
