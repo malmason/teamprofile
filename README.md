@@ -1,6 +1,6 @@
 # 🏢 Profile Generator
 
-![header](./dist/images/header.jpg)
+![header](./images/header.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
@@ -31,7 +31,7 @@ To test this application, open a command prompt and run node index.js. The video
 [Video Demonstration](https://drive.google.com/file/d/12lTeJTEOYwCyFaK1x2njscZAl-Q4ulUu/view?usp=sharing)
 
 
-![video](./dist/images/video.jpg)
+![video](./images/video.jpg)
 
 ## 🤸‍♂️ Challenges/Successes
 * How to handle recursively asking questions using inquirer as the user has the option to add as many Engineers and Interns they see fit.
@@ -49,7 +49,7 @@ To test this application, open a command prompt and run node index.js. The video
  > Below is a screenshot of the home page after the file has been generated.
 
 
-![Homepage](./dist/images/home.jpg)
+![Homepage](./images/home.jpg)
 
 ## 📱 Contact 
 
