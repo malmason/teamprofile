@@ -18,7 +18,7 @@ class Template {
     let card = ""; 
     let newMgr = new Manager(this.name,this.id,this.email,office);
     card = 
-    `<div class="card rounded-top border-primary">
+    `<div class="card rounded-top">
       <div class="card-header bg-primary text-white">
         <h3>${newMgr.name}</h3>
         <h5 class="card-title"><i class="fas fa-user-tie"></i> ${newMgr.getRole()}</h5>

@@ -116,7 +116,7 @@ const createEngineers = () => {
       let newEng = new Engineer(engineer.engineer, engineer.engid, engineer.engemail, engineer.enggithub);
       cards += 
       `<div class="col">
-        <div class="card rounded-top border-danger">
+        <div class="card rounded-top">
             <div class="card-header bg-danger text-white">
               <h3>${newEng.name}</h3>
               <h5 class="card-title"><i class="fas fa-user-cog"></i> Engineer</h5>
@@ -143,7 +143,7 @@ const createInterns = () => {
     let newInt = new Intern(intern.intern,intern.intid, intern.intemail, intern.intschool);
     cards += 
     `<div class="col">
-      <div class="card rounded-top border-success">
+      <div class="card rounded-top">
           <div class="card-header bg-success text-white">
             <h3>${newInt.name}</h3>
             <h5 class="card-title"><i class="fas fa-user-graduate"></i> Intern</h5>
